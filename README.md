@@ -44,3 +44,4 @@ Follow these instructions to run the project on your local development environme
    Open your web browser and navigate to `http://localhost:3000` to view the running application.
 
 The development server includes hot reloading, so any changes you make to the code will automatically refresh the browser and reflect your updates in real-time.
+
